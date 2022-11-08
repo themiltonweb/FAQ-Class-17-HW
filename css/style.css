@@ -1,0 +1,131 @@
+/* Common css start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    padding: 20px;
+}
+/* Common css start */
+.FAQ{
+    border-radius: 40px;
+    background:#fff;
+    height: 100px;
+    border-bottom:20px solid green;
+    border-right:30px solid red;
+}
+
+.FAQ h1{
+    padding: 25px;
+    color: rgba(255, 0, 0, 0.925);
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.container{
+    background:url(../Images/bb.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+}
+.container h2{
+    padding-top:60px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color:#fff;
+    border-bottom: 3px solid yellow;
+    padding-bottom: 5px;
+}
+
+
+button{
+    margin-top: 25px;
+    padding: 8px 80px;
+    border-radius: px;
+    border: none;
+    text-transform: uppercase;
+    color:white;
+    background: rgba(0, 0, 0, 0.473);
+    font-size: 18px;
+    font-weight: 900;
+    cursor: pointer;
+    margin-bottom: 10px;
+    border-bottom: 8px solid rgba(0, 128, 0, 0.918);
+    border-left: 16px solid rgba(255, 0, 0, 0.61);
+    display: block;
+    border-radius: 20px;
+    line-height: 15px;
+}
+
+.One{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    line-height: 20px;
+}
+.Two{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+    font-family: 'Oswald', sans-serif;
+    line-height: 20px;
+}
+.Three{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+    font-family: 'Open Sans', sans-serif;
+}
+.Fore{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+}
+.Five{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+    line-height: 20px;
+}
+
+.Sevine{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+    line-height: 20px;
+}
+.Eight{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+    line-height: 20px;
+}
+.Nine{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+    line-height: 20px;
+}
+.Ten{
+    padding: 20px 0px;
+    color: black;
+    font-size: 20px;
+    display: none;
+    line-height: 20px;
+}
